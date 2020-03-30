@@ -50,7 +50,7 @@
             <version>1.7.2</version>
         </dependency>
     </dependencies>
-
+         <!--想加一句话，但是不知道该加在哪里-->
     <build>
         <plugins>
             <!-- 该插件用于将Scala代码编译成class文件 -->
